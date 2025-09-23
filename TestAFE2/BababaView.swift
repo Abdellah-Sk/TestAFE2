@@ -9,7 +9,7 @@ import SwiftUI
 
 struct BababaView: View {
     var body: some View {
-        Text("Grain de riz 🍚")
+        Text("Grain de rizzzzzz 🍚")
     }
 }
 
