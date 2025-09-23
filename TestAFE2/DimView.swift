@@ -11,6 +11,7 @@ struct DimView: View {
     var body: some View {
         Text("Dim BG du 31!!!!")
             .font(.title)
+            .bold()
     }
 }
 
