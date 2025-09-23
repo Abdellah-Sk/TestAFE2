@@ -10,6 +10,7 @@ import SwiftUI
 struct AbdellahView: View {
     var body: some View {
         Text("la soeur a dim en 4K")
+            .bold()
     }
 }
 
